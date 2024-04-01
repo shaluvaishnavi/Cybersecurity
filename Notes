@@ -1,0 +1,29 @@
+Network - communication medium
+vulnerability - weekness
+cybersecurity tools
+hashcat - password craking tool
+RAT - remote access trojans
+bruteforce, cybersecurity - resource , security , safeguarding
+physical control , administrative control , logical control
+port scanning
+OSI layer 
+protocol - TCP UDP - set of rules
+TCP port - 65,535 and UDP - 65,535 - entry gate
+http : unsafe website - port : 80 :: https : safe - port : 443
+Blockchain
+exploit
+SQL - standard query language
+session hijacking
+Phishing , DNS , IP address , cloud , cryptography , ARP poisoning , spoofing , hashing , metasploit , back door
+hacking - gaining unauthorized access 
+ethnical hacking - gaining unauthorized access with written concern
+web application penetration testing , web server , website , webpage , web application difference
+fiels - offence (red team) defence (blue team) - both (purple team)
+three types of hackers - whitehat (architecture) , blackhat (hakers) , greyhat (both)
+soc - security operation center ssl - Secure Sockets Layer
+wikileaks , hactivist , state sponsered hakers (government payment)
+buod - bring your own device
+terminology , CIA - confidentiality , integrity , availability 
+Authentication - to verify some one identification -- three factors : something you know (knowledge) , something you have (physical,aadhar,passport) , something you are (biometric)
+Authorization or acccess control  - permission to access :: uac - user access control 
+encryption - clear text to cipher text
