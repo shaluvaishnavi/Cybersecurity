@@ -27,3 +27,82 @@ terminology , CIA - confidentiality , integrity , availability
 Authentication - to verify some one identification -- three factors : something you know (knowledge) , something you have (physical,aadhar,passport) , something you are (biometric)
 Authorization or acccess control  - permission to access :: uac - user access control 
 encryption - clear text to cipher text
+
+
+DAY 2..............................................................
+
+Windows can run these two files
+.exe file(Executable file)
+.bat file(Batch file)
+
+*   @echo off            *
+To start an application by using these commands.
+
+XAMPP Server =>OOPS (IT CONTAINS UI)
+
+Same IP ADDRESS AND SAME SUBNET IS CALLED AS LAN(LOCAL AREA NETWORK)
+
+To see all commands using command --help
+ping --help
+
+For windows we use -n
+For Linux we use -c
+CISCO PACKET TRACER
+Same networks devices to connect => cross over
+Different types of network devices=> Straight through
+To connect two routers =>coaxial.
+NETWORK DEVICES:
+
+HALF DUPLEX:ONLY ONE SIDED CONNECTION(WAKI TAKI)
+FULL DUPLEX:MULTI TASKING.
+MAC ADDRESS=> Permanent address for network devices.
+
+PING USERS=> PROTOCOL=>ICMP(INTERNET CONTROL MESSAGE PROTOCOL)
+
+
+DAY 3.......................................................................
+
+TRACERT: Command to check how many roots available between two pc.
+DHCP=>Dynamic Host Configuration Protocol
+DNS=> Domain Naming System =>Its indicates the IP address of a particular website
+
+
+
+
+A RECORD=> IPV4
+AAAA RECORD=> IPV6
+NS RECORD=> NAME SERVER
+
+TO convert the insecure connection to secure connection
+VPN => ENCRYPTION/DECRYPTION
+ -----------------------------------VPN----------------------------------------
+CLIENT<-------------------->SERVER
+----------------------------------VPN-------------------------------------(LAYER OF PROTECTION)
+
+ENCRYPTION---->CLEAR TEXT TO CIPHER TEXT
+DECRYPTION---->CIPHER TEXT TO CLEAR TEXT
+
+ENCRYPTION
+1.SYMMETRIC ENCRY ---->Single key
+2.ASYMMETRIC ENCRY---->Public/Private.(very secure)
+
+WIRESHARK IS A PACKET ANALYSER TOOL
+wireshark-->echo-->
+ip.addr==163.70.138.35
+
+Three way handshake=>
+SYN(SYNCHRONIZATION)
+SYN-ACK(SYNCHRONIZATION+ACKNOWLEDGEMENT)
+ACK(ACKNOWLEDGEMENT)
+
+TLS HANDSHAKE:(TRANSPORT LAYER SECURITY)
+
+      
+VIRUSTOOL=>
+Difference between hashing and encryption:
+=> Hashing is one way it can not be reversible.
+PASSWORD ATTACK->BRUTE FORCE ATTACK
+Combination of all.
+DICTIONARY ATTACK=>
+
+DAY 4..........................................................................
