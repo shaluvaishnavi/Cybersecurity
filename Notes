@@ -106,3 +106,69 @@ Combination of all.
 DICTIONARY ATTACK=>
 
 DAY 4..........................................................................
+
+IP => NETWORK LAYER
+HTTP&HTTPS=>ENCRYPTION
+IN HTTPS there is a THREE WAY HANDSHAKE HAPPENS
+
+Client Request ---->Server Response---->DATABASE
+HTTP METHOD                                  RESPONSE CODE
+GET                                              1xx => INFORMATIONAL
+POST=>INFORMATION SEND TO THE SERVER             2XX=>OK
+PUT                                              3XX=>REDIRECTION
+OPTIONS                                          4XX=>Client-side ERROR
+DELETE                                           5XX=>Server -side ERROR
+
+
+PRODUCTION ENVIRONMENT=>LIVE WEBSITES OR WEB APPLICATION
+STAGING ENVIRONMENT=>ACTUAL COPY OF PROD
+QA ENVIRONMENT=> TEST BUILD.
+
+Client -----> Burp proxy -----> Server
+
+Tor -Bitcoin 1b-$67000
+
+cookie=>to validate our session.
+
+https://www.example.com/index.htlm
+http://www.example.com/directory1/dTLDirectory2/filename.html
+
+web portal: http/https
+TLD
+Domain:example.com
+subdomain:maps.example.com,mail.example.com
+
+HTTP/2=HTTPS
+HTP/1.1=HTTP
+
+DICTIONARY ATTACK=> KNOWING USERNAME AND FINDING pd in 1 crore pd's
+SNIPER ATTACK=>Replace one by one password and check
+
+window=>search
+linus=>grid
+
+WAP=>WEB APPLICATION FIREWALL
+
+DAY 5................................................................
+
+vulnerability assessement
+vulnerability assessment process - asseset dicovery,vulnerability scanning,vulnerability assesement,vulnerability  remediation
+NVD - national vulnerability database
+vulnerability metrics - cvss calculator , attack vector , user interaction to exploit details from the person
+vulnerability scanner : //penetrating testing
+
+important terms
+
+policy - governance
+procedure - step by step instruction to follow the policy
+standard - department wise segmentation
+regulation - government tcids , eu, gdpr, hippa
+cms - content management system
+
+sast tools
+5 phases of penetration testing - information gathering , scanning , gaining access (finiding vulnerabilities) ,maintaing access , clearing tracks 
+process of penetrating testing -  information gathering , threat modelling , vulnerability analytics , explotation , post explotation , reporting
+sub types - application , network , physical , iot/mobile
+internal , external pt are the tyes
+
+
