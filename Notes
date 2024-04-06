@@ -179,5 +179,7 @@ web application - basics // interface between end user and web servers`-- nicto 
 sql injection
 
 string ---> '' or ""
+pwd
+cat /etc/passwd
 
 
