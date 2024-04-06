@@ -172,5 +172,12 @@ sub types - application , network , physical , iot/mobile
 internal , external pt are the types
 
 nessus essential - vulnerability scanner // free of cost
+interview   :// owasp top ten web application security risk
+
+web application - basics // interface between end user and web servers`-- nicto wbp tool  metasploit
+
+sql injection
+
+string ---> '' or ""
 
 
