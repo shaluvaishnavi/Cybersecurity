@@ -169,6 +169,8 @@ sast tools
 5 phases of penetration testing - information gathering , scanning , gaining access (finiding vulnerabilities) ,maintaing access , clearing tracks 
 process of penetrating testing -  information gathering , threat modelling , vulnerability analytics , explotation , post explotation , reporting
 sub types - application , network , physical , iot/mobile
-internal , external pt are the tyes
+internal , external pt are the types
+
+nessus essential - vulnerability scanner // free of cost
 
 
