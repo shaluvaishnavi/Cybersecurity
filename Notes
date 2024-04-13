@@ -183,7 +183,32 @@ pwd
 cat /etc/passwd
 
 DAY 6.................................................
-
 revshells.com
+
+
+types of foot printing -----> active , passive
+command and control - cac
+ransomware
+dos and Ddos attack ---> distributed denial of services 
+mitm 
+backdoor attacks --> persistent 
+zero-day vulnerabilities
+enumeration --> step by step process and gradually
+snmp 
+threat actors --- bad actors advisory
+nation state actor -- hackvist -- cyber terrorist
+incident response team --- nist framework
+steps for nist frameworks ---> identify protect detect respond recover
+assess the risk -- likelihood and impact response
+firewall ---> filters the traffic between network to the internet
+packet filtering stateful packet inspection proxying network address translation
+stateful and stateless one who dont know about the packets
+hids---> host based intrusion detection system
+nids---> network based intrusion detection system
+casb cloud access security borker
+zero trust network access
+cryptography attack
+
+
 
 
