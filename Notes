@@ -223,5 +223,34 @@ RBAC --- role based access control
 MAC---- mandatory access control 
 
 
+DAY 8.............................................
 
 
+windows server 
+
+create virtual machine
+installer disc(copy-->file open)
+version--->standard core
+name----
+pass-----
+next --->product key(yes)
+no changes in disc capacity
+next hit on the upcoming button then press any key
+iso has 4 windows version readily available
+standard evaluation desktop experience --- select 2 option and give next it shows error
+we have to turn off the vm and we have to edit the virtual machine
+in floppy connect power on should be unchecked then it shows boot on we hv to press any key
+click next for installation ---- agreement accept and click on next
+use 2 option ------ it has un allocated space 
+then create new and apply to allocate space ---- dispartition space should be deleted
+give 60 gb allocation and apply if the primary allocated will installed
+service manager -- dashboard
+/// domain controller----add roles and features
+then click next 
+select 1 option and give next ------------ // add features ---- dns server and AD domain services check and give next ----------install after completion it should shows in green colour
+click on the ! icon promote server to domain control name 
+add new forest 
+root name should be your team name 
+.local as an extension 
+give password and hit on the next next button
+ads and dns should be in active 
