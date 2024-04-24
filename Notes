@@ -254,3 +254,20 @@ root name should be your team name
 .local as an extension 
 give password and hit on the next next button
 ads and dns should be in active 
+
+
+DAY 9.......................................
+
+cyber keychain 
+weaponisation
+seven stages of cyber keychain ------>>> reconnaissance, weaponization, delivery, exploitation, installation, command and control (C2), and actions on objectives. 
+the diamond model ---> /// Adversary: intruder/attacker
+Capabilities: adversary’s tools and/or techniques
+Infrastructure: physical and/or logical resources used by adversary
+Victim: organization or system hit by adversary
+
+online password cracking - burpsuite/hydra
+offline password  cracking - cpu/gpu
+john / hashcat=gpu 100% faster than john --- offline password cracking tools
+hyra can support dictionary attack not bruteforece attack but hashcat can do bruteforce attack
+
